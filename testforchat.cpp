@@ -29,7 +29,9 @@ void ywk_talk()
 //slz
 void slz_talk(){
     problem1:
+    23:19
     cout<<"hello world"<<endl;
+    cout<<"hello c++"<<endl;
 }
 //slz shayebuhui
 
