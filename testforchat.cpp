@@ -10,22 +10,7 @@ void ywk_talk()
 };
 //test thursday
 
-void ywk_talk()
-{
-    problem1;
-    who has done?
-    any solutions?
-};void ywk_talk()
-{
-    problem1;
-    who has done?
-    any solutions?
-};void ywk_talk()
-{
-    problem1;
-    who has done?
-    any solutions?
-};
+
 //slz shayebuhui
 
 
@@ -34,3 +19,9 @@ void ywkkk()
     testttt;
 }
 //23:11
+
+void ywk2()
+{
+    ret;
+}
+//23:12
