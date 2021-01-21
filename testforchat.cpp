@@ -10,23 +10,6 @@ void ywk_talk()
 };
 //test thursday
 
-<<<<<<< HEAD
-
-//slz shayebuhui
-
-
-void ywkkk()
-{
-    testttt;
-}
-//23:11
-
-void ywk2()
-{
-    ret;
-}
-//23:12
-=======
 void ywk_talk()
 {
     problem1;
@@ -48,4 +31,18 @@ void slz_talk(){
     problem1:
     cout<<"hello world"<<endl;
 }
->>>>>>> 1ac1fab91eb73c0dcea4cd1539002d8faac6301e
+//slz shayebuhui
+
+
+void ywkkk()
+{
+    testttt;
+
+}
+//23:11
+
+void ywk2()
+{
+    ret;
+}
+//23:12
