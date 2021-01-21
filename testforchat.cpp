@@ -46,5 +46,13 @@ void ywkkk()
 void ywk2()
 {
     ret;
+    this is answer;
 }
 //23:12
+
+void ywk()
+{
+    return 0;
+    talllllk;
+}
+//11:24
