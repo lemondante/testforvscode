@@ -27,3 +27,10 @@ void ywk_talk()
     any solutions?
 };
 //slz shayebuhui
+
+
+void ywkkk()
+{
+    testttt;
+}
+//23:11
