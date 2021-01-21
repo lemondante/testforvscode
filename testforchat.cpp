@@ -38,21 +38,34 @@ void slz_talk(){
 
 void ywkkk()
 {
-    //slz shayebuhui
-    //slz shayebuhui
-    //slz shayebuhui
     testttt;
-    //slz shayebuhui
-    //slz shayebuhui
-    //slz shayebuhui
-    //slz shayebuhui
-    //slz shayebuhui
-
+    wwoow();
+    for (int i = 0; i < count; i++)
+    {
+        cout<<aaaaaa<<endl;
+    }
+    
 }
 //23:11
 
 void ywk2()
 {
     ret;
+    this is answer;
 }
 //23:12
+
+void ywk()
+{
+    return 0;
+    talllllk;
+}
+//11:24
+
+
+void ywk()
+{
+    return 0;
+    talllllk;
+}
+//0：44
