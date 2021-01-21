@@ -26,4 +26,8 @@ void ywk_talk()
     who has done?
     any solutions?
 };
-//slz shayebuhui
+//slz
+void slz_talk(){
+    problem1:
+    cout<<"hello world"<<endl;
+}
