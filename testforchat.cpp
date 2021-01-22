@@ -69,3 +69,6 @@ void ywk()
     talllllk;
 }
 //0：44
+void sla(){
+    return 0;
+}
