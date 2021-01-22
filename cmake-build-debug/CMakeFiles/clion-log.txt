@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\26538\CLionProjects\testforvscode Select CMakeLists.txt
