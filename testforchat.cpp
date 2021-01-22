@@ -79,3 +79,9 @@ void xxy{
 void slz{
     cout<<problem1 accpect;
 };
+
+//19:44
+void ywk{
+    what about p2 and p3?
+    my ans all wrong
+}
