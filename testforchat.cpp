@@ -91,3 +91,4 @@ void slz{
     p2 ok
     wait for p3
 };
+//p3 output 0  score : 15
