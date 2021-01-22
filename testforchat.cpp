@@ -74,3 +74,8 @@ void xxy{
 
 }
 //12:48
+
+//18:21
+void slz{
+    cout<<problem1 accpect;
+};
