@@ -85,3 +85,9 @@ void ywk{
     what about p2 and p3?
     my ans all wrong
 }
+
+//20:21
+void slz{
+    p2 ok
+    wait for p3
+};
