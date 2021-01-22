@@ -91,3 +91,7 @@ void slz{
     p2 ok
     wait for p3
 };
+
+void slz{
+    aijie yyds
+};
