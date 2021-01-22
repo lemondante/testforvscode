@@ -1,5 +1,4 @@
 //problem1 unsolved
-//codeforces 1169C
 #include<stdio.h>
 #include<algorithm>
 using namespace std;
